@@ -1,0 +1,6 @@
+{
+  "name": "TugasKu - To-Do List & Pengingat Kuliah",
+  "description": "Aplikasi to-do list tugas kuliah aesthetic dengan integrasi sinkronisasi Google Calendar, pengingat deadline otomatis, filter prioritas, dan daftar mata kuliah serta dosen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
